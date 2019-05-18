@@ -1,0 +1,7 @@
+Customer
+Username: darwin@example.com
+Password: darwin12qw!@QW
+
+Admin
+Username: mike@example.com
+Password: ninja12qw!@QW
